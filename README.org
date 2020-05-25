@@ -1,0 +1,22 @@
+* Disaster Response Pipeline
+
+** Table of contents
+@todo
+
+** Installation
+
+** Motivations
+
+** Files
+
+*** ETL Pipeline 
+
+The =process_data.py= script is responsible for 
+- Loading =messages= and =categories= datasets
+- Merging the two aforementioned datasets
+- Cleaning data
+- Storing it into a SQLite database
+
+
+
+** License & Acknowledgements
