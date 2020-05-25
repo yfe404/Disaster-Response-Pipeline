@@ -3,6 +3,7 @@
 venv/*
 temp/*
 notebooks/*
+*.db
 
 
 # Created by https://www.gitignore.io/api/linux,emacs,flask,python,jupyternotebooks
